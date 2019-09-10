@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am beliklor on github.
+  * I am tartitin (https://keybase.io/tartitin) on keybase.
+  * I have a public key ASDvCJAcq_ZnHyj-WM62D8vuuDi8enGGE2TNTu72pf1owQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef08901cabf6671f28fe58ceb60fcbeeb838bc7a71861364cd4eeef6a5fd68c10a",
+      "host": "keybase.io",
+      "kid": "0120ef08901cabf6671f28fe58ceb60fcbeeb838bc7a71861364cd4eeef6a5fd68c10a",
+      "uid": "a92c10f01f735b975cc53ce1a2337619",
+      "username": "tartitin"
+    },
+    "merkle_root": {
+      "ctime": 1568130847,
+      "hash": "47dfe1592681b7929469dd9f9347d07e2cb1a45ddd46191aa07fad6749b5b9913e7b59d95081476de5edcbc3629d97017de95b71763f1796fb73a7ad47f3a407",
+      "hash_meta": "5d7c75dacb9cb98cd64d2e092bed5b8be408eea3e19b8e2c2009d8ef95bbc553",
+      "seqno": 6450346
+    },
+    "service": {
+      "entropy": "x5FpG74u19wJdjEhD0uFqYYF",
+      "name": "github",
+      "username": "beliklor"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568130847,
+  "expire_in": 504576000,
+  "prev": "41e28c8ca8b144c2aa869aa1061f86238c1bc6e4a8031cab856dd8bd423fee8c",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASDvCJAcq_ZnHyj-WM62D8vuuDi8enGGE2TNTu72pf1owQo](https://keybase.io/tartitin), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7wiQHKv2Zx8o/ljOtg/L7rg4vHpxhhNkzU7u9qX9aMEKp3BheWxvYWTESpcCCcQgQeKMjKixRMKqhpqhBh+GI4wbxuSoAxyrhW3YvUI/7ozEIIDVerRsJvLTcSGtDPuzb070KWwH6kmfVOLZIq+gYtBJAgHCo3NpZ8RA5K2JCPUAUl10WkstL1vyZzzfS6ud+WB7kNMRgn/WNQtSbICqQQAU0fYlHQBdG0Z8NmBMnOvG7AaajWF0P2z2BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILdeLEYdv8nqclf1SjprHqGU35hSGAHIzkdte/bxHFd+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tartitin
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tartitin
+```
